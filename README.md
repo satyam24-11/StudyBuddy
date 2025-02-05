@@ -7,9 +7,10 @@
 
 
 ### Live Application Link
-```
-https://studybuddy-dngf.onrender.com
-```
+
+<a href="https://studybuddy-dngf.onrender.com" target="_blank">Click here to visit the live application</a>
+
+
 
 ### Cloning the repository
 
