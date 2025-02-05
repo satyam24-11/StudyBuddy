@@ -4,6 +4,10 @@
 # StudyBuddy
 
 </div>
+### Live Application Link
+```
+https://studybuddy-dngf.onrender.com
+```
 
 ### Cloning the repository
 
@@ -53,11 +57,6 @@ python manage.py runserver
 
 > ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
-
-### Live Application Link
-```
-https://studybuddy-dngf.onrender.com
-```
 #
 
 ### App Preview :
