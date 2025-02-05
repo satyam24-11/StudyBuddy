@@ -4,6 +4,8 @@
 # StudyBuddy
 
 </div>
+
+
 ### Live Application Link
 ```
 https://studybuddy-dngf.onrender.com
