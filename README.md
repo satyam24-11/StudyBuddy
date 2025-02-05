@@ -55,8 +55,9 @@ python manage.py runserver
 
 
 ### Live Application Link
+```
 https://studybuddy-dngf.onrender.com
-
+```
 #
 
 ### App Preview :
