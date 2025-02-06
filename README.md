@@ -8,7 +8,7 @@
 
 ### Live Application Link
 
-<a href="https://studybuddy-dngf.onrender.com" target="_blank">Click here to visit the live application</a>
+https://studybuddy-dngf.onrender.com
 
 
 
