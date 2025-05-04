@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
+<img width="30%" src="https://github.com/user-attachments/assets/0ba19156-334c-4e6f-8d02-a511341b8c55">
 
 # StudyBuddy
 
